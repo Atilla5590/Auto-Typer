@@ -15,6 +15,10 @@ Extra features if you need them.
 ### Modifiers
 You can paste in modifiers like {ENTER} and {DELETE} if you don't know what they are like
 use the dropdown and select one of the available modifiers then press Insert Modifier that will put it at the end of the text.
+#### Escaping or disabling modifiers
+If you want to actually type {DELETE} instead of pressing the delete key then add { and } around it it should look like this: {{DELETE}}.
+
+If you simply want to disable modifiers completly then check the box called Disable Modifiers.
 
 ### Show prompt instead of waiting
 If you need a bit more time then check the checkbox that is related to it.
