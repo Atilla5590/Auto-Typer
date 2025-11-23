@@ -1,6 +1,6 @@
 # Auto-Typer
 Ever wanted to paste something in a program but it doesn't support Ctrl V? This 17 KiB app is just for you.
-
+[Download it here](https://github.com/Atilla5590/Auto-Typer/releases)
 
 ## Instructions
 
@@ -28,3 +28,4 @@ On finish you will also get a sound
 
 ## Enjoy
 Enjoy with the app!
+[Download it here](https://github.com/Atilla5590/Auto-Typer/releases)
